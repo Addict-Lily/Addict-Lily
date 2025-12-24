@@ -1,4 +1,4 @@
-✨## Hi, I'm Svetlana  👋
+## Hi, I'm Svetlana  👋
 
 I am a developer transitioning into mobile development with Dart and Flutter.
 
