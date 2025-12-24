@@ -10,6 +10,6 @@ UI structure, consistency, and usability.
 ### Current focus
 
 - 🌱 I’m currently learning Dart and Flutter for mobile development
-- 🔭 I’m working on small Flutter apps to build stromg fundamentals
+- 🔭 I’m working on small Flutter apps to build strong fundamentals
 - 💬 Ask me about C, C#, Unity, and my Flutter learning journy
 - 📫 How to reach me: vegepress@gmail.com
