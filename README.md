@@ -1,16 +1,15 @@
-## Hi there 👋
+✨## Hi, I'm Svetlana  👋
 
-<!--
-**Addict-Lily/Addict-Lily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer transitioning into mobile development with Dart and Flutter.
 
-Here are some ideas to get you started:
+I have a bacground in C and C#, including Unity-based projects,
+and experience working with visual assets and interactive applications.
+This helps me approach Flutter development with a strong focus on
+UI structure, consistency, and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+
+- 🌱 I’m currently learning Dart and Flutter for mobile development
+- 🔭 I’m working on small Flutter apps to build stromg fundamentals
+- 💬 Ask me about C, C#, Unity, and my Flutter learning journy
+- 📫 How to reach me: vegepress@gmail.com
